@@ -44,4 +44,6 @@ button:hover
 
 img {
   box-shadow: 4px 4px 4px #052911;
+  margin-left: 10px;
+  margin-right: 10px;
 }
