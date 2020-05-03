@@ -1,0 +1,10 @@
+#dealerHand, #playerHand {
+  list-style-type: none;
+}
+li {
+  display: inline;
+}
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
