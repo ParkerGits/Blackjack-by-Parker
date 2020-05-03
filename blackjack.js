@@ -252,3 +252,5 @@ document.getElementById("standButton").addEventListener("click", function(){
 document.getElementById("playAgainButton").addEventListener("click", function(){
   location.reload();
 })
+
+// Created by Parker Landon, 5/3/2020
