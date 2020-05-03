@@ -34,7 +34,9 @@ button {
   margin: 0px 20px 0px 20px;
   box-shadow: 4px 4px 4px #000000;
 }
-
+#winnerText {
+  margin-bottom: 10px;
+}
 button:hover
 {
   background-color: #850000;
