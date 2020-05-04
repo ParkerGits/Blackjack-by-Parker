@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Pacifico&display=swap');
 
 #dealerHand, #playerHand {
   list-style-type: none;
@@ -11,7 +11,7 @@ li {
   display: inline;
 }
 html {
-  font-family: Fredoka One;
+  font-family: Pacifico;
   text-align: center;
   color: white;
   text-shadow: 4px 4px 4px #000000;
@@ -33,6 +33,7 @@ button {
   color: white;
   margin: 0px 20px 0px 20px;
   box-shadow: 4px 4px 4px #000000;
+
 }
 #winnerText {
   margin-bottom: 10px;
