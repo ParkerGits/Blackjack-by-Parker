@@ -1,20 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
 
 #dealerHand, #playerHand {
   list-style-type: none;
   padding-left: 0;
 }
+#dealerHand {
+  margin-bottom: 100px;
+}
 #title {
-  font-size: 40px;
+  margin: 0;
+  font-size: 56px;
+  text-transform: uppercase;
+  color: goldenrod;
 }
 li {
   display: inline;
 }
 html {
-  font-family: Pacifico;
+  font-family: Righteous;
   text-align: center;
   color: white;
-  text-shadow: 4px 4px 4px #000000;
 }
 h1, h2 {
   font-weight: 100;
@@ -28,12 +34,13 @@ button {
   background-color: #ff0000;
   border: none;
   padding: 15px 32px;
-  font-family: Fredoka One;
   font-size: 16px;
   color: white;
   margin: 0px 20px 0px 20px;
-  box-shadow: 4px 4px 4px #000000;
-
+  border-radius: 10%;
+  border: goldenrod;
+  border-style: solid;
+  font-family: Righteous;
 }
 #winnerText {
   margin-bottom: 10px;
@@ -47,4 +54,15 @@ img {
   box-shadow: 4px 4px 4px #052911;
   margin-left: 10px;
   margin-right: 10px;
+}
+
+#titlediv {
+  background-color:#850000;
+  width: 25%;
+  padding: 5px;
+  margin: auto;
+  margin-top:10px;
+  border-radius: 10%;
+  border: goldenrod dashed;
+  margin-bottom: 50px;
 }

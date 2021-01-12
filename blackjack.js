@@ -1,3 +1,7 @@
+
+// This is NOT the code running on index.html
+// This is the version of blackjack that I originally coded in JavaScript before switching to TypeScript.
+
 const RANKS = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"];
 const SUITS = ["D", "S", "C", "H"];
 const CARD_WIDTH = 150;
